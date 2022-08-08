@@ -1,6 +1,6 @@
 # 呂佳穎_07/29 HW-1討論
 
-###### tags: `Homework`
+###### tags: `Homework`、`Git`、`Restful API`
 >- [查看作業題目](https://reurl.cc/GErKxx)
 >- [作業繳交連結](https://reurl.cc/nO0DgX)
 

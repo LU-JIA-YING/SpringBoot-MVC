@@ -36,7 +36,7 @@ Repository(Repo.)是虛擬存儲，可以用倉庫比喻
     push  
     
 3. git flow  
-    master/main>特定人員merge
+    master/main>特定人員merge  
 :::
 
 ## Restful API
